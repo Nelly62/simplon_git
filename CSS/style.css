@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contain{
+    height: 70px;
+    width: auto;
+    background-color: crimson;
+
+}
+.contain li{
+    flex-direction: row;
+}margin: 20px;
+list-style-tpe: none;
+font-size: 1.5em;
+color: white;
